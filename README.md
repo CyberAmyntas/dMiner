@@ -1,0 +1,2 @@
+# dMiner
+dakuMiner Farm
